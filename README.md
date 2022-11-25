@@ -2,6 +2,8 @@
 
 [![@niv4's Holopin board](https://holopin.io/api/user/board?user=niv4)](https://holopin.io/@niv4)
 <img src="https://images.credly.com/size/220x220/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png"></img>
+<img src="https://images.credly.com/size/220x220/images/23859131-d0ff-4f44-900f-bac86165b941/image.png"></img>
+
 <!--
 **niv-a/niv-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
